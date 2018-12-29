@@ -74,6 +74,7 @@ header {
 
 .logo {
   display: flex;
+  justify-content: center;
   align-items: center;
   flex-grow: 1;
   padding-left: 30px;
@@ -82,7 +83,7 @@ header {
 
 .logo img {
   width: 70px;
-  heigt: 60px;
+  height: 60px;
   margin-right: 12px;
 }
 
